@@ -21,5 +21,5 @@ setup(
     url='https://github.com/carloscorrea93/calendly-api-client',
     keywords=['calendly', 'api client', 'calendly api v2', 'calendly api'],
     python_requires='>=3.7',
-    install_requires=['requests>=2.25'],
+    install_requires=['requests>=2.25', 'typing-extensions>=3.7'],
 )
